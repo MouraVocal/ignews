@@ -7,7 +7,6 @@ export default function Home() {
       <Head>
         <title>Home | IgNews</title>
       </Head>
-      <h1 className={styles.title}>Hello world</h1>
     </>
   );
 }
